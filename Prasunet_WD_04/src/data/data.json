@@ -1,0 +1,72 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "As a front-end developer, I specialize in creating responsive, user-friendly web applications using HTML, CSS, and JavaScript. I excel in frameworks like React.js, ensuring efficient state management with Redux, and prioritize accessibility and performance optimization. My experience with modern build tools and deployment practices guarantees smooth and scalable project execution."
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "As a back-end developer, I excel in building robust and scalable server-side applications using Node.js and Express.js. My expertise includes working with databases like MongoDB and MySQL, implementing RESTful APIs, and ensuring secure, efficient data handling and storage."
+      },
+      
+      {
+        "id": "3",
+        "src": "./img/feather-pen-1.png",
+        "title": "Web Development",
+        "description": "I am a versatile web developer proficient in both front-end and back-end technologies, including HTML, CSS, JavaScript, React.js, Node.js, and Express.js. I specialize in creating responsive, user-friendly web applications with efficient state management and robust server-side functionality, ensuring seamless performance and scalability."
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/placeholder-image.jpg",
+        "title": "E-commerce app",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "https://github.com/AdarshYadav04/Ecommerce_App"
+      },
+      {
+        "id": "2",
+        "src": "./img/placeholder-image-1.jpg",
+        "title": "Hotel Booking App",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "https://github.com/AdarshYadav04/travel_app"
+      },
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-2.jpg",
+        "title": "Real Time Chat App",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "https://github.com/AdarshYadav04/real_time_chat_application"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Dianne Russel",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "McDonald's"
+      }
+    ]
+  }
